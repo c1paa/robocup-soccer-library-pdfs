@@ -253,7 +253,7 @@
 
 ## _manual_drive
 
-**Файлы, скачанные вручную (Google Drive и др.)**
+**Файлы, скачанные вручную**
 
 - [📄 2vs2-Open-Line-sch (1) - tom hoider.pdf](_manual_drive/2vs2-Open-Line-sch%20%281%29%20-%20tom%20hoider.pdf)
 - [📄 2vs2-Open-Main-sch (2) - tom hoider.pdf](_manual_drive/2vs2-Open-Main-sch%20%282%29%20-%20tom%20hoider.pdf)
